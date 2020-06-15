@@ -1,3 +1,3 @@
 **Remember Your Dream**
 
-# [Blog_Bioinformatics](<https://otnew.github.io/Blog_LabPublicationss/#/>)
+# [Blog_LabPublications](<https://otnew.github.io/Blog_LabPublications/#/>)
